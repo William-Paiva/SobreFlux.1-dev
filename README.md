@@ -29,3 +29,16 @@
 * Conteúdo pornográfico não consensual.
 * Decisões automatizadas que violem direitos.
 * Campanhas de desinformação em larga escala.
+
+# FLUX.1 [dev]
+
+## Resultados Impressionantes
+
+![Uma imagem incrível gerada pelo FLUX.1 [dev]](https://github.com/William-Paiva/SobreFlux.1-dev/blob/main/images/dev_grid.jpg)
+
+
+<div align="center">
+<img src="https://github.com/William-Paiva/SobreFlux.1-dev/blob/main/images/dev_grid.jpg" width="600">
+</div>
+
+
