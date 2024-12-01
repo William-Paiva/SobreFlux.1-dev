@@ -37,8 +37,4 @@
 ![Uma imagem incrível gerada pelo FLUX.1 [dev]](https://github.com/William-Paiva/SobreFlux.1-dev/blob/main/images/dev_grid.jpg)
 
 
-<div align="center">
-<img src="https://github.com/William-Paiva/SobreFlux.1-dev/blob/main/images/dev_grid.jpg" width="600">
-</div>
-
 
