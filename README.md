@@ -15,6 +15,7 @@ O FLUX.1 [dev] é um modelo de IA de ponta capaz de gerar imagens realistas a pa
 * **Treinamento eficiente:** Alcançe de resultados excepcionais com maior eficiência computacional.
 * **Código aberto:** Incentivador de pesquisas e desenvolvimento de novas aplicações.
 * **Licença flexível:** Utilização das imagens geradas para diversos fins.
+* https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/LICENSE.md
 
 ## Como Usar
 * **Implementação de referência:** O código base esá no repositório oficial.
@@ -22,7 +23,26 @@ O FLUX.1 [dev] é um modelo de IA de ponta capaz de gerar imagens realistas a pa
 * **ComfyUI:** Interface visual intuitiva para gerar imagens.
 * **Diffusers:** Integração do modelo em seus projetos Python com a biblioteca diffusers.
 
-![Código](https://github.com/William-Paiva/SobreFlux.1-dev/blob/main/Captura%20de%20Tela%20(6).png)
+```
+import torch
+from diffusers import FluxPipeline
+
+pipe = FluxPipeline.from_pretrained("black-forest-labs/FLUX.1-dev", torch_dtype=torch.bfloat16)
+pipe.enable_model_cpu_offload() #save some VRAM by offloading the model to CPU. Remove this if you have enough GPU power
+
+prompt = "A cat holding a sign that says hello world"
+image = pipe(
+    prompt,
+    height=1024,
+    width=1024,
+    guidance_scale=3.5,
+    num_inference_steps=50,
+    max_sequence_length=512,
+    generator=torch.Generator("cpu").manual_seed(0)
+).images[0]
+image.save("flux-dev.png")
+```
+
 
 ## Limitações e Uso Adequado
 * **Informações factuais:** O modelo não é uma fonte de informações confiáveis.
