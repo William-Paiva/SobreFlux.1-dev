@@ -24,6 +24,8 @@ O FLUX.1 [dev] é um modelo de IA de ponta capaz de gerar imagens realistas a pa
 * **Diffusers:** Integração do modelo em seus projetos Python com a biblioteca diffusers.
 
 ```
+pip install -U diffusers
+
 import torch
 from diffusers import FluxPipeline
 
