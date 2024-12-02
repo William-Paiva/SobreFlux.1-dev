@@ -45,6 +45,10 @@ O FLUX.1 [dev] é um modelo de IA de ponta capaz de gerar imagens realistas a pa
 
 ![Uma imagem incrível gerada pelo FLUX.1 [dev]](https://github.com/William-Paiva/SobreFlux.1-dev/blob/main/images/dev_grid.jpg)
 
+## Imagem abstrata criada por texto
+
+![Cena de ação dinâmica com integração de texto: “Um super-herói irrompendo em uma página de quadrinhos. As linhas de ação e os efeitos sonoros devem formar o nome do herói ‘FLUX FORCE’ em tipografia ousada e dinâmica.”](https://github.com/William-Paiva/SobreFlux.1-dev/blob/main/Captura%20de%20Tela%20(5).png)
+
 
 Conheça mais sobre: https://huggingface.co/black-forest-labs/FLUX.1-dev
 
