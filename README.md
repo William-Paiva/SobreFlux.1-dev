@@ -7,7 +7,7 @@
 * **Compreensão precisa de prompts:** Siga instruções complexas e nuances em suas descrições.
 * **Treinamento eficiente:** Alcançe de resultados excepcionais com maior eficiência computacional.
 * **Código aberto:** Incentivador de pesquisas e desenvolvimento de novas aplicações.
-* **Licença flexível:** Utilização as imagens geradas para diversos fins.
+* **Licença flexível:** Utilização das imagens geradas para diversos fins.
 
 ## Como Usar
 * **Implementação de referência:** O código base esá no repositório oficial.
