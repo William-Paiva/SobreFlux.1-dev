@@ -22,6 +22,8 @@ O FLUX.1 [dev] é um modelo de IA de ponta capaz de gerar imagens realistas a pa
 * **ComfyUI:** Interface visual intuitiva para gerar imagens.
 * **Diffusers:** Integração do modelo em seus projetos Python com a biblioteca diffusers.
 
+![Código](https://github.com/William-Paiva/SobreFlux.1-dev/blob/main/Captura%20de%20Tela%20(6).png)
+
 ## Limitações e Uso Adequado
 * **Informações factuais:** O modelo não é uma fonte de informações confiáveis.
 * **Viés:** Pode refletir os vieses presentes nos dados de treinamento.
