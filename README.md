@@ -1,6 +1,13 @@
 # FLUX.1 [dev] - Modelo de Texto para Imagem
 
-**O FLUX.1 [dev] é um modelo de IA de ponta capaz de gerar imagens realistas a partir de descrições textuais. Com 12 bilhões de parâmetros, ele oferece resultados impressionantes e versáteis.**
+
+Todos os modelos públicos FLUX.1 são construídos em uma arquitetura híbrida que combina blocos de transformadores de difusão multimodais e paralelos, dimensionados para impressionantes 12 bilhões de parâmetros. Isso representa um salto significativo no tamanho e na complexidade do modelo em comparação com muitos modelos de texto para imagem existentes.
+
+Os modelos Flux melhoram os modelos de difusão de última geração ao incorporar a correspondência de fluxo, um método geral e conceitualmente simples para treinar modelos generativos. A correspondência de fluxo fornece uma estrutura mais flexível para modelagem generativa, sendo os modelos de difusão um caso especial dentro desta abordagem mais ampla.
+
+Para melhorar o desempenho do modelo e a eficiência do hardware, o Black Forest Labs integrou incorporações posicionais rotativas e camadas de atenção paralelas. Essas técnicas permitem um melhor manuseio das relações espaciais nas imagens e um processamento mais eficiente de dados em grande escala.
+
+O FLUX.1 [dev] é um modelo de IA de ponta capaz de gerar imagens realistas a partir de descrições textuais. Com 12 bilhões de parâmetros, ele oferece resultados impressionantes e versáteis.
 
 ## Características Principais
 * **Qualidade de imagem superior:** Gerador de imagens de alta resolução e detalhadas.
