@@ -3,17 +3,17 @@
 **O FLUX.1 [dev] é um modelo de IA de ponta capaz de gerar imagens realistas a partir de descrições textuais. Com 12 bilhões de parâmetros, ele oferece resultados impressionantes e versáteis.**
 
 ## Características Principais
-* **Qualidade de imagem superior:** Gere imagens de alta resolução e detalhadas.
+* **Qualidade de imagem superior:** Gerador de imagens de alta resolução e detalhadas.
 * **Compreensão precisa de prompts:** Siga instruções complexas e nuances em suas descrições.
-* **Treinamento eficiente:** Alcança resultados excepcionais com maior eficiência computacional.
-* **Código aberto:** Incentive a pesquisa e o desenvolvimento de novas aplicações.
-* **Licença flexível:** Utilize as imagens geradas para diversos fins.
+* **Treinamento eficiente:** Alcançe de resultados excepcionais com maior eficiência computacional.
+* **Código aberto:** Incentivador de pesquisas e desenvolvimento de novas aplicações.
+* **Licença flexível:** Utilização as imagens geradas para diversos fins.
 
 ## Como Usar
-* **Implementação de referência:** Encontre o código base no repositório oficial.
-* **APIs:** Utilize as APIs fornecidas por bfl.ml, replicate.com, fal.ai e mystic.ai.
-* **ComfyUI:** Experimente uma interface visual intuitiva para gerar imagens.
-* **Diffusers:** Integre o modelo em seus projetos Python com a biblioteca diffusers.
+* **Implementação de referência:** O código base esá no repositório oficial.
+* **APIs:** Utilização das APIs fornecidas por bfl.ml, replicate.com, fal.ai e mystic.ai.
+* **ComfyUI:** Interface visual intuitiva para gerar imagens.
+* **Diffusers:** Integração do modelo em seus projetos Python com a biblioteca diffusers.
 
 ## Limitações e Uso Adequado
 * **Informações factuais:** O modelo não é uma fonte de informações confiáveis.
