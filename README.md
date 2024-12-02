@@ -37,4 +37,7 @@
 ![Uma imagem incrível gerada pelo FLUX.1 [dev]](https://github.com/William-Paiva/SobreFlux.1-dev/blob/main/images/dev_grid.jpg)
 
 
+Conheça mais sobre: https://huggingface.co/black-forest-labs/FLUX.1-dev
+
+
 
